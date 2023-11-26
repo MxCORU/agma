@@ -1,1 +1,18 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "s",
+        "type": "community",
+        "author": "MxCORU",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/MxCORU/agma",
+        "githubUri": "https://github.com/MxCORU/agma",
+        "license": "apache-2.0",
+        "lastUpdated": "1701028289415",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
